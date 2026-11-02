@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anandan Somasundaram
 
-<!--
-**AnandanSomasundaram/AnandanSomasundaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Operations & Security Analyst based in Adelaide, South Australia.
 
-Here are some ideas to get you started:
+I administer and secure Microsoft 365 environments, with a focus on identity, access and email security and I automate repetitive admin with PowerShell and Microsoft Graph API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- Microsoft 365, Exchange Online and Teams
+- Entra ID, Conditional Access, MFA and RBAC
+- PowerShell and Microsoft Graph API automation
+- Email authentication (SPF, DKIM and DMARC) and DNS
+- WordPress and web hosting
+
+## Find me
+
+- Portfolio: [anandansomasundaram.github.io](https://anandansomasundaram.github.io)
+- LinkedIn: [Anandan Somasundaram](https://www.linkedin.com/in/anandan-somasundaram-4892391bb/)
