@@ -12,7 +12,7 @@ I started out in hands-on IT support, working as a freelance IT administrator an
 
 - **Security.** I configure Conditional Access and MFA, monitor Microsoft Defender and Entra ID sign-in alerts and respond to threats with preventive controls such as geofencing policies. I also led an organisation-wide MFA modernisation, moving users from SMS and legacy per-user MFA to Microsoft Authenticator and the modern Authentication Methods policy using Microsoft Graph PowerShell.
 
-- **Automation.** I build PowerShell scripts with the Microsoft Graph API and certificate-based authentication that produce monthly identity audit reports covering inactive users, role assignments, disabled accounts and unlicensed users, scheduled through Task Scheduler. I've also built a Power Automate flow that archives emails and their attachments to SharePoint.
+- **Automation.** I build PowerShell scripts with Microsoft Graph API and certificate-based authentication that produce monthly identity audit reports covering inactive users, role assignments, disabled accounts and unlicensed users, scheduled through Task Scheduler. I've also built a Power Automate flow that archives emails and their attachments to SharePoint.
 
 - **Email security.** I traced persistent SPF, DKIM and DMARC failures to an external hosting provider and coordinated the fix and added a new-sender warning in Microsoft 365 to help staff spot spoofed messages.
 
